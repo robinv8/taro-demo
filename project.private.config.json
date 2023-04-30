@@ -1,0 +1,6 @@
+{
+    "projectname": "taro-demo",
+    "setting": {
+        "compileHotReLoad": true
+    }
+}
